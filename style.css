@@ -15,7 +15,7 @@ body {
 }
 body::before {
 	content: "";
-	background: url(img/베이비복스.jpeg);
+	background: url("img/베이비복스.jpeg");
 	background-size: 630px;
 	background-position: left top;
 	opacity: 0.4;
